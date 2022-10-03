@@ -38,7 +38,7 @@ let flights = [
     }
 ]
 
-const destinations = ["TOKYO", "FRANKFURT", "DUBAI", "LONDON", "OMAN", "BEIRUT"]
+const destinations = ["PARIS", "LONDON", "HONG KONG", "SEOUL", "NEW YORK"]
 const remarks = ["ON TIME", "DELAYED", "CANCELLED"]
 let hour = 15
 
